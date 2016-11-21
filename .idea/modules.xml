@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sum.iml" filepath="$PROJECT_DIR$/Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sum/sum.iml" filepath="$PROJECT_DIR$/sum/sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sumtest/sumtest.iml" filepath="$PROJECT_DIR$/sumtest/sumtest.iml" />
+    </modules>
+  </component>
+</project>
